@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="DSWTx-_GwUi5KeYW92nwuQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="az3.ondemand.esker.com/ondemand/webaccess/asf/documents.aspx" CVScreenId="dcce3966-2481-4fd4-b5e8-3602582719bb" CvElementArea="41, 402, 36, 30" CvTextArea="52, 410, 13, 13" CvTextArgument="+" CvType="Button" DesignTimeRectangle="43, 404, 32, 26" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tableRow='10' tag='TABLE' /&gt;&lt;webctrl aaname=' add ' tableRow='1' tag='A' /&gt;" Guid="a621472e-3d57-436d-8076-eb77a51aeeaa" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Esker on Demand - Vendor invoices' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="dcce3966-2481-4fd4-b5e8-3602582719bb" CvElementArea="83, 402, 78, 30" CvTextArea="112, 410, 33, 16" CvTextArgument="Apply" CvType="Button" DesignTimeRectangle="85, 404, 74, 26" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl id='tpl_ih_adminList_displayedFilters_applyBtn' type='' tag='A' class='LinkButton LinkButton_Enabled ConditionListActionButton ConditionListApplyButton' aaname=' keyboard_returnApply ' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='keyboard_return&amp;#xA;Apply' /&gt;" Guid="2d78c06e-11db-4162-9032-f8d624c06c91" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="87bc51eccea4233d4114d1e250f34bae.png" xmlns="">0sSYUWzyyuUuQNO-7BIkeLA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

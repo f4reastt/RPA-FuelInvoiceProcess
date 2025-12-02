@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="vIWzDAVXekWHl9Ldaw_-pw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="myapps.microsoft.com" DesignTimeRectangle="511, 717, 154, 140" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname='SAP S/4HANA' aria-role='button' tag='A' /&gt;" Guid="38fb48ab-b0c2-4c54-8dfe-3cfafb1ee1e6" ScopeSelectorArgument="&lt;html app='chrome.exe' title='My Apps' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="ff0ae5b56bd2038d5e64a7ebaf43979e.png" xmlns="">0ItBjqFa0yE-6KP-q2W5yww</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

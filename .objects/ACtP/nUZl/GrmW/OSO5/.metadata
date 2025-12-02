@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Manage Supplier Line It…",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "OSO54utFpkSm117h8oHvQA",
+  "Reference": "UhN772wLzESX5y_fhHVcgg/OSO54utFpkSm117h8oHvQA",
+  "ParentRef": "UhN772wLzESX5y_fhHVcgg/GrmWO4NcL0iH37XR4iuXhw",
+  "Created": "2025-11-17T10:01:14.607046Z",
+  "Updated": "2025-11-17T10:01:14.607046Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

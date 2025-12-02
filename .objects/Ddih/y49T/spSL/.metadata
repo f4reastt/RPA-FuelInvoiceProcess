@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome Esker on Demand - Vendor invoices",
+  "Type": "Screen",
+  "Id": "spSLtQ48UUWetn12ADdFAg",
+  "Reference": "UhN772wLzESX5y_fhHVcgg/spSLtQ48UUWetn12ADdFAg",
+  "ParentRef": "UhN772wLzESX5y_fhHVcgg/y49TjgCtdkGAcFXD8H1E7Q",
+  "Created": "2025-11-19T13:31:48.8286136Z",
+  "Updated": "2025-11-19T13:31:48.8286136Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

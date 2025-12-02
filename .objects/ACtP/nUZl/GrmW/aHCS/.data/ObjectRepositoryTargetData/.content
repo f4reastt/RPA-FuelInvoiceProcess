@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="lf5P1UatLkyH2ecRoN0Bhw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="myapps.microsoft.com" CVScreenId="edb1cc6f-2240-4a2b-ac8e-6ca8de434430" CvTextArea="556, 384, 106, 16" CvTextArgument="SAP Applications" CvType="Text" DesignTimeRectangle="557, 369, 104, 44" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aaname=' SAP Applications' tag='SPAN' /&gt;" Guid="4db3c199-3c5a-40af-a161-383dc1e8f466" ScopeSelectorArgument="&lt;html app='chrome.exe' title='My Apps' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="edb1cc6f-2240-4a2b-ac8e-6ca8de434430" CvTextArea="491, 319, 180, 27" CvTextArgument="Apps dashboard" CvType="Text" DesignTimeRectangle="494, 313, 767, 32" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='H2' type='' class='title-167' aaname='Apps dashboard' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Apps dashboard' /&gt;" Guid="a711d238-ca47-4066-9ca6-933880c74d78" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="ee262c3a93198768b4a0595683865bed.png" xmlns="">0sFrHn7O8c0S05Fv95UJWBA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">CheckState</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="-BEZFVIUfUWrb9UQKPoDYA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mag-prod.launchpad.cfapps.ap11.hana.ondemand.com/site/PROD" CVScreenId="fe5ee4e8-57b0-45e8-9276-5bae971e6f7e" DesignTimeRectangle="397, 433, 108, 24" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl sapweb-id='wnd[0]/usr/ctxtPA_STIDA' /&gt;" Guid="8398edc7-2b59-4a1b-b013-b35654aa32f0" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SAP GUI for HTML' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="0613f87fbfd8d1067d6258893fc1749b.png" xmlns="">0Dy0zVnHfB06wL7ju-iXFPg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

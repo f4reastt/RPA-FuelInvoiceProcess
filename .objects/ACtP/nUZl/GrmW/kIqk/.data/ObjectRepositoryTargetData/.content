@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jHxvMD0kU0uLqDZUXZvGYw" Reference="UhN772wLzESX5y_fhHVcgg/kIqknSPDEUuvGhKzdCkDuA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mag-prod.launchpad.cfapps.ap11.hana.ondemand.com/site/PROD" CVScreenId="f6bcec68-1f23-40fb-83a9-efd6d6662a3a" CvElementArea="1816, 1005, 66, 29" CvTextArea="1822, 1013, 53, 13" CvTextArgument="Execute" CvType="Button" DesignTimeRectangle="1815, 1005, 66, 29" ElementType="Button" ElementVisibilityArgument="Interactive" Guid="ec55e834-b93e-47a2-9fcb-ec301576dcc1" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SAP GUI for HTML' /&gt;" SearchSteps="CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="f6bcec68-1f23-40fb-83a9-efd6d6662a3a" DesignTimeRectangle="8, 1000, 1920, 40" FullSelectorArgument="&lt;webctrl sapweb-id='wnd[0]/sbar' /&gt;" Guid="a6ae6b2c-83c3-422b-b34e-fa99b56d94d6" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="81ef251ec1f1a87b49278454f2c5d51c.png" xmlns="">0rPE0RNezH02QwRrpwPneLQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

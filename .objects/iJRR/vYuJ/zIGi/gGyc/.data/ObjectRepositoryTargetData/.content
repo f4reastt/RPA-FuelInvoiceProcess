@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="keA-wEXkq0OfYL1ArSNMBA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="az3.ondemand.esker.com/ondemand/webaccess/asf/home.aspx" CVScreenId="8f2965ca-15d4-496b-93d0-5f740fcb13d6" CvTextArea="164, 203, 115, 12" CvTextArgument="VENDOR INVOICES" CvType="Text" DesignTimeRectangle="160, 193, 124, 32" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tableRow='4' tag='TABLE' /&gt;&lt;webctrl class='MenuBar_Item_Text' parentid='DOCUMENT_TAB_100564889' tableRow='3' tag='DIV' /&gt;" Guid="a201a625-c589-4faf-a1b5-4579135746ec" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Esker on Demand - Welcome' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8f2965ca-15d4-496b-93d0-5f740fcb13d6" CvTextArea="87, 203, 57, 11" CvTextArgument="ROUTING" CvType="Text" DesignTimeRectangle="82, 193, 68, 32" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aaname='Routing' class='MenuBar_Item_Text' type='' tag='DIV' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='ROUTING' /&gt;" Guid="c3851daa-d430-4343-97c6-0a334ed913e8" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="4ed1e9d04c19f4bf8a99ce14f599ded4.png" xmlns="">02ECZ2H8IV06alTDwQG5y5w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

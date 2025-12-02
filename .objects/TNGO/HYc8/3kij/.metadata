@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Chrome My Apps",
+  "Type": "Screen",
+  "Id": "3kijH1eYXEStrrkOXf0btQ",
+  "Reference": "UhN772wLzESX5y_fhHVcgg/3kijH1eYXEStrrkOXf0btQ",
+  "ParentRef": "UhN772wLzESX5y_fhHVcgg/HYc8kkUSzUG1C_LifokeOg",
+  "Created": "2025-11-17T11:05:52.2480173Z",
+  "Updated": "2025-11-17T11:05:52.2480173Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

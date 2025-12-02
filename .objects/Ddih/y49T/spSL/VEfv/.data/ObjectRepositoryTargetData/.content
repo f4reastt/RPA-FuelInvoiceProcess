@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="IMOYqCzD2EK6VJ_pn7XIXA" Reference="UhN772wLzESX5y_fhHVcgg/VEfvd1XIREqh26BBW5TB6g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="az3.ondemand.esker.com/ondemand/webaccess/asf/documents.aspx" CVScreenId="fbee24b2-e719-48c5-aec4-02793c3705b2" CvTextArea="1112, 590, 55, 12" CvTextArgument="[string.Format(&quot;{0}&quot;, invoiceNum)]" CvType="Text" DesignTimeRectangle="1113, 588, 54, 16" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='tpl_ih_adminList_MainGrid' tableRow='10' tag='TABLE' /&gt;&lt;webctrl aaname='40960823' tableRow='2' tag='A' /&gt;" Guid="24f4a8a8-4a72-43cf-b493-f75a642af81f" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Esker on Demand - Vendor invoices' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="fbee24b2-e719-48c5-aec4-02793c3705b2" CvTextArea="1112, 560, 85, 12" CvTextArgument="Invoice number" CvType="Text" DesignTimeRectangle="1113, 558, 83, 16" ElementType="Text" FuzzySelectorArgument="&lt;webctrl id='tpl_ih_adminList_MainGrid' tag='TABLE' matching:id='fuzzy' fuzzylevel:id='0.0' /&gt;&lt;webctrl aaname='Invoice number' type='' tag='A' class='list_header_link' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='Invoice number' /&gt;" Guid="e3eadb74-a2ea-4c4c-90ea-c8f97e0c0b4a" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b1d0498301cdaba51b634275cca8946c.png" xmlns="">00djBtaDiT0q_dYsxNrSt7w</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="invoiceNum" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Vendor invoices",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "gGycQKDn2kiiD1_PT2prag",
+  "Reference": "UhN772wLzESX5y_fhHVcgg/gGycQKDn2kiiD1_PT2prag",
+  "ParentRef": "UhN772wLzESX5y_fhHVcgg/zIGiM0OvdkiMGetnTiZcpw",
+  "Created": "2025-11-17T10:29:03.2346661Z",
+  "Updated": "2025-11-17T10:29:03.2346661Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

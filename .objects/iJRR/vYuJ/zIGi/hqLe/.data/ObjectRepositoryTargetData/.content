@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="A3jfm3PJe06v4HavV6SOBQ" Reference="UhN772wLzESX5y_fhHVcgg/hqLeaXOadUq2Dys3LLUiVg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="az3.ondemand.esker.com/ondemand/webaccess/asf/documents.aspx" CVScreenId="c8684775-a46e-4255-be79-0e16bc6510d0" CvElementArea="1331, 291, 526, 26" CvType="InputBox" DesignTimeRectangle="1335, 347, 520, 21" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tableRow='1' tag='TABLE' /&gt;&lt;webctrl aria-role='textbox' class='tagify__input' tableRow='5' tag='SPAN' /&gt;" Guid="b987fc71-924d-4667-bb04-877dba25447d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Esker on Demand - Vendor invoices' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="c8684775-a46e-4255-be79-0e16bc6510d0" CvElementArea="1185, 291, 145, 27" CvType="InputBox" DesignTimeRectangle="1187, 346, 140, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aaname='equal to' aria-role='textbox' type='' tag='SPAN' class='select2-selection__rendered' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:aria-role='fuzzy' fuzzylevel:aria-role='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='equal to' /&gt;" Guid="83f386d1-c539-49ae-a2ea-b3891c687fd6" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0d97204d8b2e185866fda7f0615de844.png" xmlns="">0S2HEsynLIkGWlIMFkB49Vg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "equal to",
+  "Type": "Element",
+  "Id": "eUFimSIJSUG7Nx02W4uOKA",
+  "Reference": "UhN772wLzESX5y_fhHVcgg/eUFimSIJSUG7Nx02W4uOKA",
+  "ParentRef": "UhN772wLzESX5y_fhHVcgg/zIGiM0OvdkiMGetnTiZcpw",
+  "Created": "2025-11-17T10:32:20.427904Z",
+  "Updated": "2025-11-17T10:32:20.427904Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="PVLsC2eRR0aDl_lwi5UNqw" Reference="UhN772wLzESX5y_fhHVcgg/6c5x1BP-xEeZfCgl8w_8jQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="8, 54, 39, 34" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='New Tab - Google Chrome' role='pane' /&gt;&lt;ctrl name='Back' role='push button' /&gt;" Guid="240075d3-ab56-448e-a1db-eb538e7498e1" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACsAAAAmCAYAAABdw2IeAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAC0SURBVFhH7dMxCsUgEIThHMUbWAmC3sTWziN4eMME1kKL9wg7YGCLn4BD4Cv0cs4N5L0fOeejuwQbQtjG05rYGOM2ntbEppS28bQmdh1OzLCsDMvKsKwMy4qKrbWOUsp2/jYaFtDe+/Ndt7dRsAwoUseyoEgVK9DW2rZppIYVqGB/tf7/T2pYvPrPYJGAGfcVqWIRE6yORSwwBYsYYBoWAfwZrHaGZWVYVoZlZVhWhmVlWFY34SfcUFyTZB8AAAAASUVORK5CYII=" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='New Tab - Google Chrome' /&gt;" SearchSteps="Selector, Image" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="49, 54, 34, 34" ElementType="Button" FuzzySelectorArgument="&lt;ctrl name='New Tab - Google Chrome' role='pane' matching:name='fuzzy' fuzzylevel:name='0.0' /&gt;&lt;ctrl name='Forward' role='push button' automationid='' matching:name='fuzzy' fuzzylevel:name='0.0' matching:automationid='fuzzy' fuzzylevel:automationid='0.0' check:text='Forward' /&gt;" Guid="999f84f0-d690-4cab-896f-e86b2d741241" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="30874d59ac54c530fc4b4d9d5f0e5c42.png" xmlns="">0ASeMyTyRYEuPArBU721VXA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

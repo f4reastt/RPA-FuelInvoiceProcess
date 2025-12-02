@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cOQSBv3VYUm9wUqoX_6NyA" Reference="UhN772wLzESX5y_fhHVcgg/B9K7JBZ1kkyOSuv1Q8kx_w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mag-prod.launchpad.cfapps.ap11.hana.ondemand.com/site/PROD" CVScreenId="2b7d479b-0a5a-4f13-85b5-e783998d9961" CvElementArea="901, 571, 236, 28" CvType="InputBox" DesignTimeRectangle="901, 571, 235, 27" ElementType="InputBox" ElementVisibilityArgument="Interactive" Guid="927c6d28-282f-40d4-b641-960a7943b387" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SAP GUI for HTML' /&gt;" SearchSteps="CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="2b7d479b-0a5a-4f13-85b5-e783998d9961" DesignTimeRectangle="801, 572, 98, 26" ElementType="Text" FullSelectorArgument="&lt;webctrl sapweb-id='wnd[0]' /&gt;&lt;webctrl sapweb-lsid='popupDialogLabel' /&gt;" Guid="3b6dd12e-298d-44d2-a3ab-e36ebd45efa7" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="7fc4497278f65db19482505cac31a1e1.png" xmlns="">0656NfpKPLUe127pXHqo0zg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

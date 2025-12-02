@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_dbfCXr500avxmbxSSEY9A" Reference="UhN772wLzESX5y_fhHVcgg/GsQNtCdOxE6M1Tz--qiF0w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mag-prod.launchpad.cfapps.ap11.hana.ondemand.com/site/PROD" CVScreenId="8ee20765-a4f1-4345-b84e-ff1a62a8b7a3" CvElementArea="689, 136, 552, 38" CvType="InputBox" DesignTimeRectangle="689, 136, 553, 37" ElementType="InputBox" ElementVisibilityArgument="Interactive" Guid="2f1c4966-61ba-42a2-91a3-470b751ea75d" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Home' /&gt;" SearchSteps="CV" Version="V6" WaitForReadyArgument="None">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="8ee20765-a4f1-4345-b84e-ff1a62a8b7a3" DesignTimeRectangle="621, 181, 186, 44" ElementType="ListItem" FullSelectorArgument="&lt;webctrl ui5-class='sap.ushell.ui.launchpad.AnchorItem' ui5p-title='Flight Order AP Processor' /&gt;" Guid="26288a93-b8fe-4983-bfd0-6f8be272a6b9" SearchSteps="Selector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="072fb4a6eb1538e4fa2b4a12ddb5d996.png" xmlns="">0M8AXUQi0QE2vHYV-t9ZEtQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

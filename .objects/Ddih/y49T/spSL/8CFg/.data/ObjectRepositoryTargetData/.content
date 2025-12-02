@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="EEO-WlQjx0ayTveplpIjtw" Reference="UhN772wLzESX5y_fhHVcgg/8CFgtUlvqEatWK7iRqwllg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="az3.ondemand.esker.com/ondemand/webaccess/asf/documents.aspx" DesignTimeRectangle="1113, 588, 54, 16" ElementType="Text" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="[string.Format(&quot;&lt;webctrl id='tpl_ih_adminList_MainGrid' matching:id='fuzzy' fuzzylevel:id='0.0' tag='TABLE' /&gt;&lt;webctrl type='' tag='A' class='' matching:class='fuzzy' fuzzylevel:class='0.0' tableRow='{0}r' /&gt;&quot;, rowIndx)]" Guid="b9729612-b735-4a14-894e-a2270349eea9" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Esker on Demand - Vendor invoices' /&gt;" SearchSteps="FuzzySelector" Version="V6" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="d2776021437dde1b4a872be866824a50.png" xmlns="">0rE62zLMEjEyFpgR7b-4PZA</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData IsString="False" Name="rowIndx">
+        <ObjectRepositoryVariableData.DefaultValue>
+          <x:Int32>0</x:Int32>
+        </ObjectRepositoryVariableData.DefaultValue>
+      </ObjectRepositoryVariableData>
+    </scg:List>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

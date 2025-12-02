@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="aFmpPBLnAUezUqzzRpF6Bg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mag-prod.launchpad.cfapps.ap11.hana.ondemand.com/site/PROD" CVScreenId="fe5ee4e8-57b0-45e8-9276-5bae971e6f7e" DesignTimeRectangle="397, 657, 108, 24" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl sapweb-id='wnd[0]/usr/ctxtSO_BUDAT-LOW' /&gt;" Guid="64ce44fb-0514-42b6-8519-b21e3a943b32" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SAP GUI for HTML' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b2e60847b752ed7acb22f8bd90986f72.png" xmlns="">07lclPtz4WEmb79uI48SLQg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

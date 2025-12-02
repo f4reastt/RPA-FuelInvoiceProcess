@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="WLaAHym7QUC8lqa-f1cezw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="login.microsoftonline.com/common/oauth2/v2.0/authorize" CVScreenId="5bfecd33-f12c-422a-a407-8a3e15b0a30c" CvElementArea="1035, 650, 111, 35" CvTextArea="1074, 661, 33, 14" CvTextArgument="Next" CvType="Button" DesignTimeRectangle="1036, 652, 108, 32" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='idSIButton9' tag='INPUT' /&gt;" Guid="4043dbd9-f83c-401e-aaf2-f25c62b3d058" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Sign in to your account' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="5bfecd33-f12c-422a-a407-8a3e15b0a30c" CvElementArea="922, 651, 111, 34" CvTextArea="962, 661, 32, 14" CvTextArgument="Back" CvType="Button" DesignTimeRectangle="924, 652, 108, 32" ElementType="Button" FuzzySelectorArgument="&lt;webctrl id='idBtn_Back' tag='INPUT' type='button' class='win-button button-secondary button ext-button secondary ext-secondary' aaname='Back' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:text='Back' /&gt;" Guid="fc5987ba-143f-464b-96af-f93638e87278" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d7d832eccf82e6754f1e4c1641c7d724.png" xmlns="">0RORimgMwF06dK7LjPjQmQQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

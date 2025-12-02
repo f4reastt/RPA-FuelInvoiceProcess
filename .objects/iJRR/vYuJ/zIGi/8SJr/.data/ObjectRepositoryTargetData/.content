@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="z8ix0yMmQkGFbkA5YZF39A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="az3.ondemand.esker.com/ondemand/webaccess/logon.aspx" CVScreenId="dcb7bd6d-f61c-496c-8b10-041f44524f3b" CvElementArea="790, 390, 354, 45" CvType="InputBox" DesignTimeRectangle="793, 387, 350, 48" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='text' class='' aaname='Identifier' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="73dcef82-3b0f-4d24-9d3c-fd9cc5b48461" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Log in to Esker on Demand' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="dcb7bd6d-f61c-496c-8b10-041f44524f3b" CvElementArea="790, 390, 354, 45" CvType="InputBox" DesignTimeRectangle="800, 399, 59, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='floating-input-label' aaname='Identifier' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Identifier' /&gt;" Guid="f3331c1d-3f0a-44af-9ad2-aa5c50cf8b5c" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9d328ec99e7715461b0dbcd63f57a38d.png" xmlns="">02VNJ9XCoaEutJd3cZvw6Qw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Ah_0fJBpG06rzLdT7APbGQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="az3.ondemand.esker.com/ondemand/webaccess/asf/FlexibleForm/FlexibleForm.aspx" DesignTimeRectangle="8, 54, 39, 34" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;ctrl name='Esker on Demand - Vendor Invoice - Google Chrome' role='pane' /&gt;&lt;ctrl name='Back' role='push button' /&gt;" Guid="afd95ab2-0540-4053-84ac-6df4fc8a6ad7" ScopeSelectorArgument="&lt;wnd app='chrome.exe' cls='Chrome_WidgetWin_1' title='Esker on Demand - Vendor Invoice - Google Chrome' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6839d607b1bc6a20dd12ba56bcbda639.png" xmlns="">0I3WNM5tZjkCz2Cj0D54c7Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="XG8HxaP0i0aOML8h4zTgmw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="az3.ondemand.esker.com/ondemand/webaccess/logon.aspx" CVScreenId="2e2ab467-a510-4859-8be2-2ddabb791fbb" CvElementArea="790, 452, 354, 42" CvType="InputBox" DesignTimeRectangle="793, 445, 350, 48" ElementType="InputBoxPassword" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl tag='INPUT' type='password' class='' aaname='Password' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="27cda9e7-22aa-4ae3-8a5d-0241794261a9" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Log in to Esker on Demand' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="2e2ab467-a510-4859-8be2-2ddabb791fbb" CvElementArea="790, 452, 354, 42" CvType="InputBox" DesignTimeRectangle="800, 457, 66, 24" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='passwordfield' tag='LABEL' type='' class='floating-input-label' aaname='Password' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Password' /&gt;" Guid="92475616-a4f5-4cea-b8ba-23feaa5313fe" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="8b367f95eb105f1d0f9fd18363946794.png" xmlns="">01YNI3PUOfkCoY7iO_RzUDA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

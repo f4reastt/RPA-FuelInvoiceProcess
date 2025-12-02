@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="acBJbikv5E2d5_Sdk0dAvQ" Reference="UhN772wLzESX5y_fhHVcgg/E06OYnGZtUWn-1UGBpbhYQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="az3.ondemand.esker.com/ondemand/webaccess/asf/documents.aspx" CVScreenId="fdd6371a-4ebe-45b4-a838-70a3e5565041" CvTextArea="1111, 590, 56, 12" CvTextArgument="[string.Format(&quot;{0}&quot;, invoiceNum)]" CvType="Text" DesignTimeRectangle="403, 544, 0, 0" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="[string.Format(&quot;&lt;webctrl id='tpl_ih_adminList_MainGrid' tableRow='10' tag='TABLE' /&gt;&lt;webctrl aaname='{0}' tableRow='{1}' tag='A' innertext='{0}' visibleinnertext='{0}' /&gt;&quot;, invoiceNum, invNum)]" Guid="ce72c95d-db9d-42a9-8c48-45556fc483b7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Esker on Demand - Vendor invoices' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="None">
+      <imageRef attrName="InformativeScreenshot" originalValue="fc6e8476b7fc5d3b40ece73c1ad6f270.png" xmlns="">0XUeZnxFqY06m0yyPZwyAkg</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="2">
+      <ObjectRepositoryVariableData DefaultValue="" Name="invoiceNum" />
+      <ObjectRepositoryVariableData DefaultValue="2" Name="invNum" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

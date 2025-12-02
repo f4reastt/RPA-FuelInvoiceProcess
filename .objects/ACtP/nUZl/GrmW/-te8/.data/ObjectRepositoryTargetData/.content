@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="2dtHBKuqz0OcPjhUsDflQA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="login.microsoftonline.com/common/oauth2/v2.0/authorize" CVScreenId="a3bf1a95-d986-4ba6-aec6-95468cbf818d" CvElementArea="792, 520, 351, 34" CvType="InputBox" DesignTimeRectangle="794, 518, 348, 36" ElementType="InputBox" ElementVisibilityArgument="Interactive" FuzzySelectorArgument="&lt;webctrl id='i0116' tag='INPUT' type='email' class='form-control ltr_override input ext-input text-box ext-text-box' placeholder='Email, phone, or Skype' aaname='' matching:id='fuzzy' fuzzylevel:id='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' /&gt;" Guid="9725f90b-26dd-4f8c-a1e6-a7f11b9c965b" IsResponsive="True" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Sign in to your account' /&gt;" SearchSteps="FuzzySelector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="a3bf1a95-d986-4ba6-aec6-95468cbf818d" CvTextArea="791, 482, 76, 27" CvTextArgument="Sign in" CvType="Text" DesignTimeRectangle="792, 478, 352, 28" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aria-role='heading' tag='DIV' type='' class='' aaname='Sign in' matching:aria-role='fuzzy' fuzzylevel:aria-role='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Sign in' /&gt;" Guid="7b7014ac-8271-48fa-9c93-adb812a8d801" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="fb18bac2f9863f913925f9cf0983f0cd.png" xmlns="">0sR8B2q7htUKLJ0YM5-IpVQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

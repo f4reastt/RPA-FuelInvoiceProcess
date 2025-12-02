@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="3pTmwti8eEW53N78yCxxDA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mag-prod.launchpad.cfapps.ap11.hana.ondemand.com/site/PROD" CVScreenId="7aa1ac6b-0d2f-4e28-b8e2-a9817c478a9c" DesignTimeRectangle="397, 313, 48, 24" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl sapweb-id='wnd[0]/usr/ctxtKD_BUKRS-LOW' /&gt;" Guid="aa2e1700-4695-455f-9398-437ce2a38ed7" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Vendor Line Item Display' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="d6b8901b80a809d4c555221548a35859.png" xmlns="">0_hnd264PQUyxYijmkm1woA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

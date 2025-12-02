@@ -1,0 +1,13 @@
+﻿{
+  "Name": "1.0.0",
+  "Type": "AppVersion",
+  "Id": "HYc8kkUSzUG1C_LifokeOg",
+  "Reference": "UhN772wLzESX5y_fhHVcgg/HYc8kkUSzUG1C_LifokeOg",
+  "ParentRef": "UhN772wLzESX5y_fhHVcgg/TNGOyar7jU6B-GSvPTEmxQ",
+  "Created": "2025-11-17T11:05:52.2341334Z",
+  "Updated": "2025-11-17T11:05:52.2341334Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

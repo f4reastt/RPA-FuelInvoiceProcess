@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="_AJMjZUMDkGj3jqdFW_bVw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="login.microsoftonline.com/common/oauth2/v2.0/authorize" CVScreenId="373e39f7-f53f-48c9-af4c-ba760c45ee86" CvElementArea="1034, 607, 112, 35" CvTextArea="1066, 618, 47, 17" CvTextArgument="Sign in" CvType="Button" DesignTimeRectangle="1036, 609, 108, 32" ElementType="Button" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='idSIButton9' tag='INPUT' /&gt;" Guid="107309e2-dce4-4307-a599-101ca0086a3e" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Sign in to your account' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="373e39f7-f53f-48c9-af4c-ba760c45ee86" CvTextArea="793, 576, 118, 16" CvTextArgument="Forgot my password" CvType="Text" DesignTimeRectangle="792, 573, 352, 36" FuzzySelectorArgument="&lt;webctrl class='col-md-24' parentid='lightbox' tag='DIV' type='' aaname='                              ' matching:class='fuzzy' fuzzylevel:class='0.0' matching:parentid='fuzzy' fuzzylevel:parentid='0.0' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' check:innerText='Forgot my password' /&gt;" Guid="7d8fe3a9-b53c-4e53-87b5-a7a309d31831" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d58a26e6c14c20a82c0dd78cc9913dff.png" xmlns="">0ornTcONlU0ajHy4po1zgjA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

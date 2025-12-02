@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Yy8Skos-30-jQXmEBdNikg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mag-prod.launchpad.cfapps.ap11.hana.ondemand.com/site/PROD" DesignTimeRectangle="56, 257, 176, 176" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl ui5-class='sap.m.GenericTile' /&gt;" Guid="b31f3b88-4a37-4d66-8cd9-2ebcd1890d10" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Home' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="5ae1afc5cfdebf1d59fc80ca2244ec48.png" xmlns="">062KqSm6yZkm7epvE7kUm7Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

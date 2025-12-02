@@ -1,0 +1,6 @@
+{
+  "Name": "Fuel Invoice Process for AP",
+  "ProjectType": "Process",
+  "Description": "Part 1: Download listing from S4HANA\r\nPart 2: Use listing to matching in Esker On Demand",
+  "MainFile": "Main.xaml"
+}

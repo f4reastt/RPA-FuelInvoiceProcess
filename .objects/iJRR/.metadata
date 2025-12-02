@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Log in to Esker on Demand",
+  "Type": "App",
+  "Id": "iJRRVA8nyk6DF5PBxszhnw",
+  "Reference": "UhN772wLzESX5y_fhHVcgg/iJRRVA8nyk6DF5PBxszhnw",
+  "Created": "2025-11-17T10:25:45.2517939Z",
+  "Updated": "2025-11-17T10:25:45.2517939Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

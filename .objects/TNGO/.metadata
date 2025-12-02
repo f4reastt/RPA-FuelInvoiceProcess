@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome My Apps",
+  "Type": "App",
+  "Id": "TNGOyar7jU6B-GSvPTEmxQ",
+  "Reference": "UhN772wLzESX5y_fhHVcgg/TNGOyar7jU6B-GSvPTEmxQ",
+  "Created": "2025-11-17T11:05:52.2153001Z",
+  "Updated": "2025-11-17T11:05:52.2153001Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.19.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.10.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

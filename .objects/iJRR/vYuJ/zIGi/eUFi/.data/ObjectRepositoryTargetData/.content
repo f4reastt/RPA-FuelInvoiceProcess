@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="Rzv3quB-JEyxUVD_iLRv-g" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="az3.ondemand.esker.com/ondemand/webaccess/asf/documents.aspx" CVScreenId="47c95f02-a217-4f71-b348-be403a5db3fc" CvElementArea="993, 291, 190, 27" CvType="InputBox" DesignTimeRectangle="1159, 294, 20, 22" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tableRow='1' tag='TABLE' /&gt;&lt;webctrl aria-role='presentation' tableRow='5' tag='SPAN' /&gt;" Guid="fd398f3a-3f84-44b4-ae8e-5e2083b0f58a" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Esker on Demand - Vendor invoices' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="47c95f02-a217-4f71-b348-be403a5db3fc" CvElementArea="1185, 291, 145, 27" CvType="InputBox" DesignTimeRectangle="1187, 294, 140, 22" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='TABLE' /&gt;&lt;webctrl aaname='equal to' aria-role='textbox' type='' tag='SPAN' class='select2-selection__rendered' matching:aaname='fuzzy' fuzzylevel:aaname='0.0' matching:aria-role='fuzzy' fuzzylevel:aria-role='0.0' matching:class='fuzzy' fuzzylevel:class='0.0' check:innerText='equal to' /&gt;" Guid="50ce05c4-fe47-46d7-a37e-fda31c4319e4" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="9c047c1b5e801c513aeaa5edd418b851.png" xmlns="">01DdvMUgepUu9jlS87XHlJw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

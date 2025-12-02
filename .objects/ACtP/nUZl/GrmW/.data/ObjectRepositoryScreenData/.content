@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="NvOuzseMVUeTsmOgnr8aEA" Reference="UhN772wLzESX5y_fhHVcgg/GrmWO4NcL0iH37XR4iuXhw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1936, 1048" BrowserType="Chrome" ContentHash="YV08F0I7T0WKfgT7M0_iAA" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAA6SURBVDhPY/juJ/cfF2ZgYGCo38XwHxcGyTOgaxo1YCAMoBwsef8fJ2ZgYPi/k+E/LjxqwOAxgEIAAE2e5IMOgF4vAAAAAElFTkSuQmCC" Reference="UhN772wLzESX5y_fhHVcgg/GrmWO4NcL0iH37XR4iuXhw" Selector="&lt;html app='chrome.exe' title='Sign in to your account' /&gt;" Url="https://login.microsoftonline.com/common/oauth2/v2.0/authorize?client_id=2793995e-0a7d-40d7-bd35-6968ba142197&amp;scope=openid%20profile%20offline_access&amp;redirect_uri=https%3A%2F%2Fmyapps.microsoft.com%2F&amp;client-request-id=ca4428d8-cf9e-4864-b35e-8d86aabd4891&amp;response_mode=fragment&amp;response_type=code&amp;x-client-SKU=msal.js.browser&amp;x-client-VER=2.37.1&amp;client_info=1&amp;code_challenge=YUwVtS6x3UkVQG-C_g_o_FFCYzuushLlq8jYM22VnRk&amp;code_challenge_method=S256&amp;nonce=cbc6c871-e11d-45f1-b0db-53694ea2e2e4&amp;state=eyJpZCI6ImNmMzc5MzAxLTRmMjctNDQ3Yy1iMDQxLTA3ODMyZjk1NjY2MCIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D&amp;sso_reload=true" Version="V2">
+      <TargetApp.Arguments>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.Arguments>
+      <TargetApp.WorkingDirectory>
+        <p:InArgument x:TypeArguments="x:String" />
+      </TargetApp.WorkingDirectory>
+      <imageRef attrName="InformativeScreenshot" originalValue="902c330c382c79c67a85cfa2f96607b8.jpg" xmlns="">0DBKuuLqv2Eu4_-Ruuczfpw</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>
